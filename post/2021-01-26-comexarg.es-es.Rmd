@@ -1,0 +1,19 @@
+---
+title: ComExArg - Sistema de consulta del Comercio Exterior Argentino
+author: Arguto/Martínez/Pérez Ibáñez
+date: '2021-01-26'
+slug: comexarg
+categories:
+  - Dashboards
+tags:
+  - R
+  - Shiny
+keywords:
+  - tech
+---
+
+<!--more-->
+
+Aplicación web realizada en el marco del curso Social Data Analytics de EANT junto a Martínez y Pérez Ibáñez. 
+
+Disponible en: https://farguto.shinyapps.io/comexarg/

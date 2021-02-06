@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dashboards on Sitio web de Federico Arguto</title>
+    <link>/categories/dashboards/</link>
+    <description>Recent content in Dashboards on Sitio web de Federico Arguto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/dashboards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ComExArg - Sistema de consulta del Comercio Exterior Argentino</title>
+      <link>/2021/01/comexarg/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/comexarg/</guid>
+      <description>
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dónde reciclar</title>
+      <link>/2021/01/d%C3%B3nde-reciclar/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/d%C3%B3nde-reciclar/</guid>
+      <description>
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

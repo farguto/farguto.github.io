@@ -1,0 +1,19 @@
+---
+title: Dónde reciclar
+author: Arguto/Fernández Bender/Florido/Pelaez
+date: '2021-01-26'
+slug: dónde-reciclar
+categories:
+  - Dashboards
+tags:
+  - Python
+  - Dash
+keywords:
+  - tech
+---
+
+<!--more-->
+
+Dónde reciclar: https://dondereciclar.herokuapp.com/
+
+Trabajo realizado en el marco del curso de Python Data Analytics de EANT junto a Fernández Bender, Florido y Pelaez.
